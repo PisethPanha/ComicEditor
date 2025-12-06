@@ -2,7 +2,7 @@ import { GoogleGenAI, Modality } from "@google/genai";
 
 // Lazy initialization helper
 const getAiClient = () => {
-  const Key = "AIzaSyCedIP6zmzSc2e8MSYKcnw3NLq8Cw6tyzY56747";
+  const Key = "AIzaSyAt8vDwQcXMAfWg4zcGtnUvlKngx4kRTiwg6747";
 const apiKey = Key.slice(0, -5);
   // If the key is empty/undefined, the SDK might throw, but now we catch it in the function call
   if (!apiKey) {
