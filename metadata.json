@@ -1,0 +1,5 @@
+{
+  "name": "ComicScribe AI",
+  "description": "Transform comic strips into audio-ready scripts with character-specific voice prompts using Gemini Vision.",
+  "requestFramePermissions": []
+}
